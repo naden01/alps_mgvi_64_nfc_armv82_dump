@@ -1,0 +1,1 @@
+# alps_mgvi_64_nfc_armv82_dump
